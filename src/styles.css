@@ -1,0 +1,15 @@
+h1 {
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  color:aqua;
+}
+.mario_titulo{
+    font-family: Arial;
+    font-size: 35px;
+    position: absolute;
+    top: 402px;
+    left: 260px;
+    z-index: 3;
+    color:rgb(0, 0, 0) !important;
+}
