@@ -1,0 +1,169 @@
+
+
+
+.header {
+
+
+        height: 216px;
+        background: linear-gradient(180deg, #5AE0E5 0%, rgba(90, 224, 229, 0) 100%);
+        padding-bottom: 50px;
+    }
+
+.div1 {
+
+       display: column;
+       float: right;
+       position: relative;
+       top: 22px;
+       right: 48px;
+
+       width: 168px;
+             
+
+}
+
+#logo {
+
+    width: 168px;
+            
+    background: url(Logotipo2.png);
+
+    position: relative;
+     
+    
+   
+}
+
+
+h3 {
+        text-align: center;
+        font-style: italic;
+        font-size: 20px;
+        font-family: 'Nova Script';
+                       
+        color: #5AC4E5;
+
+        mix-blend-mode: normal;
+        
+      
+                    
+       
+}
+
+
+   
+
+
+.main {
+    
+    position: absolute;
+    top: 216px;
+    height: 800px;
+    background: #FFFFFF;
+    
+}
+
+.section1, .section2, .section3 {
+
+        padding-inline: 50px;
+        
+        
+
+}
+
+.div2 {
+        position: absolute;
+        display: contents;
+        height: 588px;
+                      
+
+}
+
+#fondo {
+        
+        width: 1428px;
+        
+        image-rendering: high-quality;
+        padding-top: 50px;
+}
+
+#banner {
+    
+    
+    margin-top: 50px;
+    margin-right: 30%;
+    margin-left: 30%;
+
+    height: 40%;
+    width: 40%;
+
+    background: url(Banner2);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+
+.div3 {
+        display: block;
+        float: center;
+        padding: 0% 30%;
+        
+
+}
+
+h4 {
+
+        color: black;
+        font-size: 24;
+        font-family: Inter;
+        
+        
+        
+        
+}
+
+
+.div4 {
+                
+        margin: 0px 80px;                      
+        background: url(TECNOLOGIA.png);
+        mix-blend-mode: normal;
+        border: none;
+  
+        
+}
+  
+
+.footer {
+
+        background: linear-gradient(180deg, #5AE0E5 0%, rgba(90, 224, 229, 0) 100%);
+        position: absolute;
+        
+
+}
+
+
+#equipo_footer {
+        margin-top: 70px;
+        text-align: center;
+
+                    
+}
+
+
+
+p {
+
+        position: absolute;
+        right: 50px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 12px;
+        display: flex;
+        align-items: left;
+
+        color: #000000;
+        padding:50px 0px; 
+}
+
