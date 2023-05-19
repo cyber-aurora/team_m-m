@@ -2,7 +2,7 @@
 
 # Proyecto Web estática:  M<>M Web Developers
 
-
+![Página Principal](./IMAGENES/pag_principal.png "Página Principal")
 
 ## DESCRIPCIÓN Y OBJETO DEL EJERCICIO
 
@@ -35,21 +35,21 @@ El proyecto-ejercicio consiste en una la realización de una página web estáti
 
 ###### Página principal
 
-![Página Principal](/IMAGENES/pag_principal.png "Página Principal")
+![Página Principal](./IMAGENES/pag_principal.png "Página Principal")
 
 ###### Página 2
 
-![Despliegue Mario](/IMAGENES/hovering_mario.png "Despliegue Mario")
+![Despliegue Mario](./IMAGENES/hovering_mario.png "Despliegue Mario")
 
 ###### Página 3
 
-![Despliegue María](/IMAGENES/hovering_maria.png "Despliegue María")
+![Despliegue María](./IMAGENES/hovering_maria.png "Despliegue María")
 
 ## PROTOTIPO
 
 ## TECNOLOGÍAS
 	 Git Hub
-	Visual Studio Code
+	 Visual Studio Code
 	 Figma
 	 HTML5
 	 CSS3
